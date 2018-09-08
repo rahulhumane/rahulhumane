@@ -3,3 +3,6 @@ void main()
 {
 printf("hello suraj");
 }
+{
+  printf("hello shubham");
+}
