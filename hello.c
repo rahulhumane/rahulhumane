@@ -1,4 +1,5 @@
-#includes<stdio.h>
+# includes<stdio.h>
 void main()
-{printf("hello suraj");
+{
+printf("hello suraj");
 }
